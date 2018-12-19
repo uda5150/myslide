@@ -3,12 +3,11 @@
 WeJS 2018/12/20
 
 ---
-@snap[north]
+
 ### 自己紹介
-@snapend
 
 @snap[west w-center]
-![](assets/img/myicon.png?s=200&v=4)
+![](assets/img/myicon.png?s=20&v=4)
 @snapend
 
 @snap[east w-70]
@@ -39,9 +38,6 @@ WeJS 2018/12/20
 ---
 
 ## 当たってしまう・・・
-
-
-# 😇
 
 
 ---
