@@ -7,10 +7,10 @@ WeJS 2018/12/20
 ### 自己紹介
 @snapend
 
----?image=assets/img/myicon.png&position=left&size=55% 50%
+---?image=assets/img/myicon.png&position=left&size=100% 100%
 
 @snap[east]
-@ul
+@ul[](false)
 * Webエンジニア@Findy
 * できたてホヤホヤエンジニア（1ヶ月弱）
 * 本と映画が好き
