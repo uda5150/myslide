@@ -44,12 +44,12 @@ WeJS 2018/12/20
 
 ## 当時の状況
 - Webエンジニア歴 2週間  |
-- Rails完全理解した！（業務で簡単な実装に四苦八苦）  |
+- Rails完全に理解した！<br>（業務で簡単な実装に四苦八苦）  |
 - フロントエンドとは？？？(.erbなら見たことある)  |
 
 ---
 
-### なんとか1週間で「React完全に理解した！」まで持っていきたい
+### なんとか1週間で<br>「React完全に理解した！」<br>まで持っていきたい
 （そうしないと発表内容が無い）
 
 
@@ -59,10 +59,9 @@ WeJS 2018/12/20
 
 ---
 
-# なにを？？？
+## なにを？？？
 
-
-![](assets/img/myicon.png)
+![](assets/img/innocent.png)
 
 
 ---
@@ -77,7 +76,7 @@ WeJS 2018/12/20
 ## と、とりあえず、JavaScript！
 
 
-![](assets/img/myicon.png)
+![](assets/img/innocent.png)
 
 
 ---
@@ -85,12 +84,10 @@ WeJS 2018/12/20
 ## 本屋に行ってみる
 (本が好きなので・・・)
 
-![](assets/img/myicon.png)
-
 
 --- 
 
-## 何を購入して良いのか分からず
+### 何を購入して良いのか分からず
 - Webデザイン系の本が多い・・・  |
 - 全体的にちょっと古い・・・  |
 
@@ -98,12 +95,10 @@ WeJS 2018/12/20
 
 # ググる
 
-![](assets/img/myicon.png)
-
 
 ---
 
-### ドキュメントがどこにあるのか分からない
+### ドキュメントがどこにあるのか<br>分からない
 - プログラミングスクールの記事や正確なのか分からない記事がたくさん出てくる・・・  |
 - 何が公式ドキュメントなのか・・・  |
 - PythonやRubyのように.orgのサイトがない・・・  |
@@ -112,19 +107,20 @@ WeJS 2018/12/20
 
 ## もうReactからで
 
-![](assets/img/myicon.png)
+![](assets/img/innocent.png)
+
 
 ---
 
-## Reactのチュートリアルへ
+### Reactのチュートリアルへ
 
-[画像]
+![](assets/img/react-tutorial.png)
 
 ---
 
 ## ガイドを発見！
 
-![](assets/img/myicon.png)
+![](assets/img/js-guide.png)
 
 ---
 
@@ -137,13 +133,13 @@ WeJS 2018/12/20
 
 ### これでいいじゃん！
 
-![](assets/img/myicon.png)
+![](assets/img/mdn.png)
 
 ---
 
 ### 入り交じる日本語と英語のページ
 
-![](assets/img/myicon.png)
+![](assets/img/mdn-english.png)
 
 
 ---
@@ -155,7 +151,7 @@ WeJS 2018/12/20
 
 ### あれ？
 
-![](assets/img/myicon.png)
+![](assets/img/thinking.png)
 
 ---
 
@@ -167,13 +163,12 @@ WeJS 2018/12/20
 
 ### ググる
 
-![](assets/img/myicon.png)
 
 ---
 
 ### ありがとうございます！
 
-![](assets/img/myicon.png)
+![](assets/img/es6.png)
 
 ---
 
@@ -202,35 +197,37 @@ WeJS 2018/12/20
 
 ---
 
-### 入門done
+### チュートリアルdone
 
-![](assets/img/tictactoepng)
+![](assets/img/tictactoe.png)
+
+---
+
+### React完全に理解した！
 
 ---
 
 ## 0からReact入門への道筋
 
-- MDNのサイト、Web入門を読む
-- Qiita等でES6以降のJS知識を手に入れつつ、MDN内でググる
-- Reactチュートリアルをやってみる
+- MDNのサイト、Web入門を読む |
+- Qiita等でES6以降のJS知識を手に入れつつ、MDN内でググる |
+- Reactチュートリアルをやってみる |
 
-
----
-
-### これでReact完全に理解できる！
 
 ---
 
 ## 感想
 - 結構しんどかった・・・(睡眠不足含め)  |
 - フロントエンドへの苦手意識が結構消えた（はず）  |
-- 業務でバリバリ書けるぜ！ではないが、なんとか調べることはできる！  |
+- 業務でバリバリ書けるぜ！ではないが、<br>なんとか調べることはできる！  |
 - 絶対、Vueの方がわかりやすい（泣）  |
 
 ---
 
 ### 最後に
-- 個人的にフロントエンドをどう入門して良いのか分からず、自分で見つけた解なので、もっと良い方法があったら教えてください
+フロントエンドにどう入門して良いのか分からず、<br>
+自分で見つけたひとつの解なので、<br>
+もっと良い方法があったら教えてください！
 
 ---
 
@@ -238,23 +235,23 @@ WeJS 2018/12/20
 
 ---
 
-### この資料を作っていたらReactからメールが・・・
+### この資料を作っていたら<br>Reactからメールが・・・
 
 ![](assets/img/react-status.png)
 
 ---
 
-## React Developerへのロードマップあるよ！
+### React Developerへのロードマップあるよ！
 
 ![](assets/img/react-roadmap.png)
 
 ---
 
-## @emoji[innocent]
+![](assets/img/innocent.png)
 
 ---
 
-## おしまい
+# ありがとうございました！
 
 
 
