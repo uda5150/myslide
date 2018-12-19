@@ -1,10 +1,10 @@
-## 1週間でReactにほぼ0から入門する
+## 1週間でReactに<br>ほぼ0から入門する
 @udayan28  
 WeJS 2018/12/20
 
 ---
 
-## 自己紹介
+### 自己紹介
 @snap[west span-20]
 ![](assets/img/myicon.png)
 @snapend
