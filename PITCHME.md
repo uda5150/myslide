@@ -3,32 +3,35 @@
 WeJS 2018/12/20
 
 ---
-
+@snap[north]
 ### 自己紹介
-@snap[west span-20]
-![](assets/img/myicon.png)
 @snapend
 
-@snap[east span-20]
+---?image=assets/img/myicon.png&position=left&size=55% 50%
+
+@snap[east]
+@ul
 * Webエンジニア@Findy
 * できたてホヤホヤエンジニア（1ヶ月弱）
 * 本と映画が好き
+@ulend
 @snapend
+
 
 
 ---
 
 ### 話すこと、話さないこと
 - 話すこと
-  - どうやってフロントエンドほぼ未経験でReact学習までもっていったか
+  - どうやってフロントエンドほぼ未経験で<br>React学習までもっていったか
 - 話さないこと
-  - 技術の細かいはなし
+  - 技術の細かいところ
 
 
 ---
 
 ### 12月某日
-- やっとエンジニアになれたし、初心者LT申し込むか！  |
+- エンジニアになれたし、初心者LT申し込むか！  |
 - 抽選だし、当たらない、当たらない！  |
 
 ---
