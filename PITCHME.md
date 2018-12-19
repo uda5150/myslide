@@ -9,10 +9,12 @@ WeJS 2018/12/20
 ![](assets/img/myicon.png)
 @snapend
 
-
+@snap[east]
 * Webエンジニア@Findy
 * できたてホヤホヤエンジニア（1ヶ月弱）
 * 本と映画が好き
+@snapend
+
 
 ---
 
