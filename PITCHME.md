@@ -7,7 +7,7 @@ WeJS 2018/12/20
 ### 自己紹介
 
 @snap[west w-center]
-![](assets/img/myicon.png?s=20)
+![](assets/img/myicon.png&s=20)
 @snapend
 
 @snap[east w-70]
