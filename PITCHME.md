@@ -144,8 +144,6 @@ WeJS 2018/12/20
 
 ### あれ？
 
-![](assets/img/thinking.png)
-
 ---
 
 ## ES6は？
