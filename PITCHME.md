@@ -7,7 +7,7 @@ WeJS 2018/12/20
 ### 自己紹介
 
 @snap[west w-center]
-![](assets/img/myicon.png?s=20&v=4)
+![](assets/img/myicon.png?s=20)
 @snapend
 
 @snap[east w-70]
@@ -33,11 +33,11 @@ WeJS 2018/12/20
 
 ### 12月某日
 - エンジニアになれたし、初心者LT申し込むか！  |
-- 抽選だし、当たらない、当たらない！  |
+- 抽選か〜〜〜  |
 
 ---
 
-## 当たってしまう・・・
+## 当たった！！！
 
 
 ---
@@ -192,7 +192,7 @@ WeJS 2018/12/20
 
 ### な、なんとなく分かるぞ！
 - JSX（JSに全部突っ込んだやつ）
-- Compornent (部品)
+- Component (部品)
 - props（投げるやつ）
 - state（投げるやつに入ってるやつ）
 
