@@ -61,8 +61,8 @@ WeJS 2018/12/20
 ### なんとなく聞いたことあるやつ
 
 * HTML5とCSS3？
-* JavaScript(ES5以前/ES6移行), TypeScript？？
-* React.js、Vue.js？？？(JQuery?)
+* JavaScript(ES5以前/ES6以降), TypeScript？？
+* React.js、Vue.js？？？(jQuery?)
 
 ---
 
