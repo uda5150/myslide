@@ -206,6 +206,7 @@ WeJS 2019/02/21
 ---
 
 ### onsole.logをMDN内で検索すると
+
 ![](assets/img/consolelog.png)
 
 ---
@@ -217,6 +218,7 @@ WeJS 2019/02/21
 ---
 
 ### console.logからconsoleオブジェクトのページへ
+
 ![](assets/img/consoleobj.png)
 
 ---
