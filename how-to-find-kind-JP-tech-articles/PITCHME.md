@@ -207,7 +207,7 @@ WeJS 2019/02/21
 
 ### onsole.logをMDN内で検索すると
 
-![](assets/img/consolelog.png)
+![](how-to-find-kind-JP-tech-articles/assets/img/consolelog.png)
 
 ---
 
@@ -219,7 +219,7 @@ WeJS 2019/02/21
 
 ### console.logからconsoleオブジェクトのページへ
 
-![](assets/img/consoleobj.png)
+![](how-to-find-kind-JP-tech-articles/assets/img/consoleobj.png)
 
 ---
 
